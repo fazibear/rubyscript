@@ -1,6 +1,6 @@
 # ruby_script
 
-Convert ruby syntax to JS syntax
+Attempt to convert ruby syntax to JS syntax
 
 ## usage
 
