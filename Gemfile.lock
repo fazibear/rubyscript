@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ruby_parser (3.7.2)
+      sexp_processor (~> 4.1)
+    sexp_processor (4.6.0)
+    thor (0.19.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruby_parser
+  sexp_processor
+  thor
+
+BUNDLED WITH
+   1.10.6
